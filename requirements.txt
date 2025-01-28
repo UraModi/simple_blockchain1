@@ -1,0 +1,3 @@
+# requirements.txt
+# No external dependencies for this project.
+# You can add any dependencies here if needed in the future.
